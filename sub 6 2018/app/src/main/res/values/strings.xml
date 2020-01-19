@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Concedii_sub6_2018</string>
+    <string name="adaugare_oferta">Adaugare oferta</string>
+    <string name="lista_oferte">Lista oferte</string>
+    <string name="preluare_date">Preluare date</string>
+    <string name="centralizator">Centralizator</string>
+    <string name="despre">Despre</string>
+    <string name="nume_utilizator">Andreea Munteanu</string>
+    <string name="adresa">Adresa</string>
+    <string name="numar_camere">Numar camere</string>
+    <string name="suprafata">Suprafata</string>
+    <string name="perioada">Perioada</string>
+    <string name="salveaza">Salveaza</string>
+    <string-array name="spn_tipcamete">
+        <item>Casa</item>
+        <item>Apartament</item>
+    </string-array>
+</resources>
